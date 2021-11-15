@@ -1,4 +1,4 @@
-# Implementing Value Iteration to Find Optimal $\pi'$ for a Karel Task $T_2$
+# Implementing Value Iteration to Find Optimal Policy for a Karel Task
 # Documentation
 There are multiple classes used to implement value iteration to find the optimal policy $\pi$. 
 ## bcoolors
